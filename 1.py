@@ -1,3 +1,5 @@
+#  爬取http://www.jueshitangmen.info上的小说
+
 import requests
 from bs4 import BeautifulSoup
 
